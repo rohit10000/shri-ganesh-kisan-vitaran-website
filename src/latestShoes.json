@@ -1,17 +1,8 @@
 {
   "shoe1": {
-    "name": "Flex Experience Run 9",
-    "img": "https://m.media-amazon.com/images/I/61WBg7crTQL._AC_SR700,525_.jpg",
-    "price": 65.0
-  },
-  "shoe2": {
-    "name": "Flex Control 4",
-    "img": "https://m.media-amazon.com/images/I/71Cc3JcCN7L._AC_SR700,525_.jpg",
-    "price": 65.0
-  },
-  "shoe3": {
-    "name": "Air Max Motion 2",
-    "img": "https://m.media-amazon.com/images/I/61IPQlMjDkL._AC_SR700,525_.jpg",
+    "name": "White DPT",
+    "name": "White DPT",
+    "img": "../../image_/product1.jpg",
     "price": 84.95
   },
   "shoe4": {

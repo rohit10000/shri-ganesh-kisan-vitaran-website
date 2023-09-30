@@ -67,8 +67,7 @@ body {
 
 .nav-container {
   display: flex;
-
-  background: #e0d9e7c5;
+  background: #fefefe;
   border-radius: 30px;
   flex-direction: row;
   justify-content: center;
@@ -148,10 +147,10 @@ body {
 
 .banner-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("./images/nike2.jpg");
+    url("./image_/banner-image.jpg");
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 80vh;
   border-radius: 20px;
   margin: 1rem;
   box-shadow: 10px 10px 10px rgba(14, 12, 12, 0.534);
