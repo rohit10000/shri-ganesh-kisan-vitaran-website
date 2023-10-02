@@ -1,5 +1,5 @@
 import React from "react";
-import Shoes from "../../latestShoes.json";
+import Products from "../../latestProducts.json";
 
 function Home() {
   return (
@@ -7,6 +7,7 @@ function Home() {
       <div className="banner-image"></div>
       <div>
         <span className="tagline">Welcome to Shri Ganesh Kisan Vitaran!</span>
+        <br />
         <div className="tagline-para">
           We take immense pride in being your trusted source for premium quality rice and cereals.
           As a dedicated farmer with a passion for agriculture, we bring the bounty of our fertile
@@ -23,18 +24,18 @@ function Home() {
           <br />
           <br />
           <div className="product-container image-gallery">
-            {Object.keys(Shoes).map((keyName) => {
-              const shoe = Shoes[keyName];
+            {Object.keys(Products).map((keyName) => {
+              const product = Products[keyName];
               return (
                 <div className="home-products" key={keyName}>
                   <img
-                    className="products-shoe-image"
-                    alt={shoe.name}
-                    src="https://m.media-amazon.com/images/I/81kz-cAPItL._AC_SR700,525_.jpg"
+                    className="products-latest-image"
+                    alt={product.name}
+                    src={product.img}
 
                   />
-                  <h3 className="shoe-name">{shoe.name}</h3>
-                  <h3 className="shoe-price">${shoe.price}</h3>
+                  <h3 className="item-name">{product.name}</h3>
+                  <h3 className="item-price">₹{product.price}</h3>
                 </div>
               );
             })}

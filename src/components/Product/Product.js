@@ -26,11 +26,11 @@ function Product() {
 
           return (
             <div key={id} className="hvr-grow products">
-              <h3 className="shoe-name">{title} </h3>
-              <h2 className="shoe-price"> ${price} </h2>
+              <h3 className="item-name">{title} </h3>
+              <h2 className="item-price">₹{price} </h2>
               <Link key={id} to={`/product/${id}`}>
                 <img
-                  className="products-shoe-image"
+                  className="products-latest-image"
                   title={title}
                   alt={title}
                   src={imageUrl}
@@ -52,11 +52,6 @@ function Product() {
             </div>
           );
         })}
-
-        {/* {Object.keys(Shoes).map((keyName, idx) => {
-          const shoe = Shoes[keyName];
-          return <Shoe shoe={shoe} key={idx} keyName={keyName} idx={idx} />;
-        })} */}
       </div>
       <div className="page-wrapper"></div>
     </div>

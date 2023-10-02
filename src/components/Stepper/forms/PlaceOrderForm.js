@@ -69,7 +69,7 @@ const PlaceOrderForm = ({ handleNext }) => {
                   </p>
 
                   <p className="right">
-                    <strong>${price}</strong>
+                    <strong>₹{price}</strong>
                   </p>
                   <br />
                   <br />
@@ -96,7 +96,7 @@ const PlaceOrderForm = ({ handleNext }) => {
               <p className="left">Total</p>
 
               <p className="right">
-                <strong>${totalAmount}</strong>
+                <strong>₹{totalAmount}</strong>
               </p>
               <br />
               <br />

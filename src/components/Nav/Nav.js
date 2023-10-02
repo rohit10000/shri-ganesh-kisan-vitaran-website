@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "../../App.css";
-import BusinessLogo from "../../image_/logo3.png";
+import BusinessLogo from "../../images/logo3.png";
 import cartImage2 from "../../images/cart7.svg";
 import Badge from "@material-ui/core/Badge";
 import { useSelector } from "react-redux";

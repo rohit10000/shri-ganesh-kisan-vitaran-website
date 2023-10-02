@@ -17,7 +17,7 @@ export default function SummaryCard({ items, amount }) {
           Total Items : <strong className="summary-text">{items}</strong>
         </Typography>
         <Typography className="summary-text" variant="h5" gutterBottom>
-          Total Amount : <strong className="summary-text">${amount}</strong>
+          Total Amount : <strong className="summary-text">₹{amount}</strong>
         </Typography>
         {amount > 0 && (
           <Link className="hvr-grow about-button" to="/checkout">

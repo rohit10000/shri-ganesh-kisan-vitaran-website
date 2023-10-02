@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background: linear-gradient(-90deg, gray, white);
+  background: linear-gradient(-90deg, yellow, #367825);
   height: 100vh;
 }
 
@@ -57,7 +57,7 @@ body {
   right: 0;
 }
 
-.nike-shoes {
+.business-products {
   margin: 20px;
   text-shadow: 2px 4px 8px white;
   font-variant: small-caps;
@@ -112,7 +112,7 @@ body {
 }
 
 @media (max-width: 500px) {
-  .nike-shoes {
+  .business-products {
     font-size: 150%;
   }
 
@@ -147,7 +147,7 @@ body {
 
 .banner-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("./image_/banner-image.jpg");
+    url("./images/banner-image.jpg");
   background-size: cover;
   background-position: center;
   height: 80vh;
@@ -315,7 +315,7 @@ body {
 
 .banner-image-about {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("./images/nike1.jpg");
+    url("./images/banner4.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -325,20 +325,20 @@ body {
   margin: 1rem;
 }
 
-.about-nike {
+.about-business {
   margin-right: 60%;
   padding: 20px;
   padding-top: 230px;
 }
 
-.about-nike-text {
+.about-business-text {
   font-size: 25px;
   color: black;
   font-family: "Rowdies", cursive;
   text-shadow: 4px 4px 1px #1e80d4;
 }
 
-.about-nike > p {
+.about-business > p {
   margin: 20px;
   font-family: "Rowdies", cursive;
   font-size: 22px;
@@ -346,12 +346,12 @@ body {
   text-shadow: 1px 1px 1px rgb(27, 77, 124);
 }
 
-.about-nike-part {
-  margin: 40px;
-  padding: 40px;
+.about-business-part {
+  margin: 40px 40px 0px 40px;
+  padding: 40px 40px 20px 40px;
 }
 
-.about-nike-heading {
+.about-business-heading {
   font-family: "Rowdies", cursive;
   margin: 20px;
   font-size: 40px;
@@ -360,7 +360,7 @@ body {
   font-variant: small-caps;
 }
 
-.about-nike-para {
+.about-business-para {
   font-family: "Rowdies", cursive;
   padding: 0px;
   text-shadow: 1px 1px 1px gray;
@@ -371,27 +371,27 @@ body {
 /* MEDIA QUERIES */
 
 @media (max-width: 1000px) {
-  .about-nike {
+  .about-business {
     padding-top: 400px;
   }
 
-  .about-nike-text {
+  .about-business-text {
     font-size: 20px;
   }
 
-  .about-nike > p {
+  .about-business > p {
     font-size: 14px;
   }
 
-  .about-nike-heading {
+  .about-business-heading {
     font-size: 30px;
   }
 
-  .about-nike-part {
+  .about-business-part {
     margin: 2px;
   }
 
-  .about-nike-para {
+  .about-business-para {
     font-size: 15px;
   }
 }
@@ -401,19 +401,19 @@ body {
     height: 50vh;
   }
 
-  .about-nike {
+  .about-business {
     padding-top: 90px;
   }
 
-  .about-nike-heading {
+  .about-business-heading {
     padding: 0;
   }
 
-  .about-nike-part {
+  .about-business-part {
     padding: 2px;
   }
 
-  .about-nike > p {
+  .about-business > p {
     font-size: 11px;
   }
 }
@@ -423,82 +423,82 @@ body {
     height: 40vh;
   }
 
-  .about-nike {
+  .about-business {
     padding-top: 90px;
   }
 
-  .about-nike-heading {
+  .about-business-heading {
     padding: 0;
   }
 
-  .about-nike-part {
+  .about-business-part {
     padding: 2px;
   }
 
-  .about-nike > p {
+  .about-business > p {
     font-size: 11px;
   }
 }
 
 @media (max-width: 600px) {
-  .about-nike {
+  .about-business {
     padding-top: 120px;
   }
 
-  .about-nike > p {
+  .about-business > p {
     font-size: 8px;
   }
 }
 
 @media (max-width: 500px) {
-  .about-nike-text {
+  .about-business-text {
     font-size: 13px;
   }
 
-  .about-nike-heading {
+  .about-business-heading {
     font-size: 25px;
   }
 
-  .about-nike-para {
+  .about-business-para {
     font-size: 12px;
   }
 
-  .about-nike {
+  .about-business {
     padding-top: 100px;
   }
 
-  .about-nike > p {
+  .about-business > p {
     font-size: 7px;
   }
 }
 
 @media (max-width: 400px) {
-  .about-nike-text {
+  .about-business-text {
     font-size: 11px;
     padding: 0;
     margin: 0;
   }
 
-  .about-nike-heading {
+  .about-business-heading {
     font-size: 23px;
     padding: 0;
   }
 
-  .about-nike-para {
+  .about-business-para {
     font-size: 10px;
   }
 
-  .about-nike {
+  .about-business {
     padding-top: 100px;
   }
 
-  .about-nike > p {
+  .about-business > p {
     padding: 0;
     margin: 1;
     font-size: 5px;
   }
 
-  .about-nike {
+  .about-business {
     padding: 0;
     padding-top: 150px;
   }
@@ -525,15 +525,15 @@ body {
   height: 300px;
 }
 
-.products-shoe-image {
+.products-latest-image {
   height: 150px;
 }
 
-.shoe-name {
+.item-name {
   color: #5d0137;
 }
 
-.shoe-price {
+.item-price {
   color: rgb(96, 110, 96);
   text-shadow: 1px 1px 1px black;
 }
@@ -547,7 +547,7 @@ body {
   height: auto;
 }
 
-.shoe-image {
+.item-image {
   width: 80%;
   margin: 10px;
   border-radius: 60px;
@@ -605,7 +605,7 @@ body {
     height: 250px;
   }
 
-  .products-shoe-image {
+  .products-latest-image {
     height: 150px;
   }
 }
@@ -620,15 +620,15 @@ body {
     height: 220px;
   }
 
-  .products-shoe-image {
+  .products-latest-image {
     height: 80px;
   }
 
-  .shoe-name {
+  .item-name {
     font-size: 12px;
   }
 
-  .shoe-price {
+  .item-price {
     font-size: 14px;
   }
 }
@@ -669,13 +669,13 @@ body {
   height: 290px;
 }
 
-.cart-shoe-name {
+.cart-item-name {
   color: black;
   font-size: 14px;
   font-family: "Times New Roman", Times, serif !important;
 }
 
-.cart-shoe-image {
+.cart-item-image {
   border-radius: 50px;
   height: 150px;
 }
@@ -686,7 +686,7 @@ body {
   text-shadow: 2px 3px 3px gray;
 }
 
-.shoe-price-cart {
+.item-price-cart {
   font-size: 20px;
   font-family: "Times New Roman", Times, serif !important;
   color: rgb(42, 38, 38);

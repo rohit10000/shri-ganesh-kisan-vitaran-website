@@ -86,7 +86,7 @@ function Cart() {
             if (quantity > 0) {
               return (
                 <div key={id} className="cart-products">
-                  <h3 className="cart-shoe-name">{title} </h3>
+                  <h3 className="cart-item-name">{title} </h3>
                   <button
                     className="remove-btn hvr-grow"
                     onClick={() => store.dispatch(remove(product))}
@@ -100,7 +100,7 @@ function Cart() {
                     />{" "}
                   </button>
                   <br />
-                  <h2 className="shoe-price-cart"> ${price} </h2>
+                  <h2 className="item-price-cart"> ₹{price} </h2>
                   <label htmlFor="quantity">Items</label>{" "}
                   <button
                     className="item-button"
@@ -123,7 +123,7 @@ function Cart() {
                     +
                   </button>
                   <br />
-                  <img className="cart-shoe-image" alt={title} src={imageUrl} />
+                  <img className="cart-item-image" alt={title} src={imageUrl} />
                   <br />
                 </div>
               );

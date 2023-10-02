@@ -47,7 +47,7 @@ function OrderSummary() {
               </p>
 
               <p className="right">
-                <strong>${price}</strong>
+                <strong>₹{price}</strong>
               </p>
               <br />
               <br />
@@ -74,7 +74,7 @@ function OrderSummary() {
           <p className="left">Total</p>
 
           <p className="right">
-            <strong>${totalAmount}</strong>
+            <strong>{totalAmount}</strong>
           </p>
           <br />
           <br />

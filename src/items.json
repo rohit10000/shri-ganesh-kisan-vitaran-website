@@ -1,0 +1,24 @@
+{
+  "product1": {
+    "name": "White DPT",
+    "name": "White DPT",
+    "img": "https://raw.githubusercontent.com/rohit10000/shri-ganesh-kisan-vitaran-website/master/src/image/product1.jpg",
+    "price": 84.95
+  },
+  "product2": {
+    "name": "Kabulichana",
+    "img": "https://raw.githubusercontent.com/rohit10000/shri-ganesh-kisan-vitaran-website/master/src/image/product3.jpg",
+    "price": 65.0
+  },
+   "product3": {
+    "name": "Jerabatti",
+    "img": "https://raw.githubusercontent.com/rohit10000/shri-ganesh-kisan-vitaran-website/master/src/image/product4.jpg",
+    "price": 84.95
+  },
+  "product4": {
+    "name": "Bauni",
+    "img2": "https://raw.githubusercontent.com/rohit10000/shri-ganesh-kisan-vitaran-website/master/src/image/product2.jpg",
+    "img": "https://raw.githubusercontent.com/rohit10000/shri-ganesh-kisan-vitaran-website/master/src/image/product4.jpg",
+    "price": 65.00
+  }
+}

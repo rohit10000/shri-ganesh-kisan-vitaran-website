@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7fb6854-5bc7-45a7-aae2-038f8e607014" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shri-ganesh-kisan-vitaran-website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/banner4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latestProducts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logo3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/Cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OrderSummary/OrderSummary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OrderSummary/OrderSummary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Product/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Product/Product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductItems/ProductItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProductItems/ProductItems.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shoe/Shoe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Shoe/Shoe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Stepper/forms/PlaceOrderForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Stepper/forms/PlaceOrderForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SummaryCard/SummaryCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SummaryCard/SummaryCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/banner-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/banner-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/logo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/product1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/product1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/product2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/product2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/product3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/product3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/product4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/product4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nike.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nike1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nike1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nike2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nike3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nike4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nike5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nike6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nike7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nike8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latestShoes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shoes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/states/productState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/states/productState.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2W6Wh1pPtwiP1qAdzvG049xxP8h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rohit/Documents/shri-ganesh-kisan-vitaran-website&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/image" />
+      <recent name="$PROJECT_DIR$/src/components/Home" />
+      <recent name="$PROJECT_DIR$/src/image_" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Nike-Shoe-Store" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Nike-Shoe-Store" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7fb6854-5bc7-45a7-aae2-038f8e607014" name="Changes" comment="" />
+      <created>1696053625735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696053625735</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1696082819897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696082819897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>

@@ -30,10 +30,10 @@ function Shoe({ shoe, keyName }) {
   return (
     <div className="hvr-grow products">
       <h3 className="shoe-name">{shoe.name} </h3>
-      <h2 className="shoe-price"> ${shoe.price} </h2>
+      <h2 className="shoe-price"> ₹{shoe.price} </h2>
       <Link key={keyName} to={`/product/${keyName}`}>
         <img
-          className="products-shoe-image"
+          className="products-latest-image"
           title={shoe.name}
           alt={shoe.name}
           src={shoe.img}
